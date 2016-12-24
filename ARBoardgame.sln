@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{B6DD384F-E9C4-C8F6-B866-9FC1E7626977}") = "ARBoardgame", "Assembly-CSharp.csproj", "{496B1DF9-1289-323F-35FC-823BA07C86F2}"
+EndProject
+Project("{B6DD384F-E9C4-C8F6-B866-9FC1E7626977}") = "ARBoardgame", "Assembly-CSharp-Editor.csproj", "{C3102D3C-86C5-66D6-5331-67DEAFB73BF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{496B1DF9-1289-323F-35FC-823BA07C86F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{496B1DF9-1289-323F-35FC-823BA07C86F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{496B1DF9-1289-323F-35FC-823BA07C86F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{496B1DF9-1289-323F-35FC-823BA07C86F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3102D3C-86C5-66D6-5331-67DEAFB73BF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3102D3C-86C5-66D6-5331-67DEAFB73BF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3102D3C-86C5-66D6-5331-67DEAFB73BF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3102D3C-86C5-66D6-5331-67DEAFB73BF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
